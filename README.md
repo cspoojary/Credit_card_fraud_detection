@@ -9,6 +9,6 @@ This project analyzes anonymized credit card transaction data to detect unusual 
 - <a href = "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data/">Dataset</a>
 
 ## Tools & Technologies Used
-> Data Processing & Modeling: Python, Pandas, NumPy, Scikit-Learn, XGBoost, Imbalanced-learn
+### Data Processing & Modeling: Python, Pandas, NumPy, Scikit-Learn, XGBoost, Imbalanced-learn
 > Visualization: Matplotlib, Seaborn, Plotly
 > Environment: Jupyter Notebook, GitHub
