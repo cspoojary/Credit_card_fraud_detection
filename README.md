@@ -20,7 +20,5 @@ This project analyzes anonymized credit card transaction data to detect unusual 
     * Random Forest achieved a ROC-AUC of ~0.97, with strong recall for fraud detection.
     * XGBoost matched or exceeded performance, with clearer feature importance ranking.
  * Important Predictors: Features like V14, V17, and V12 emerged as consistent top contributors.
-
-Effectiveness of Imbalance Techniques: SMOTE and class-weight adjustments notably improved recall without sacrificing precision excessively.
-
-Threshold Trade-offs: Precision-Recall curves helped identify an optimal balance point—prioritizing recall (catching fraud) while managing false positives.
+ * Effectiveness of Imbalance Techniques: SMOTE and class-weight adjustments notably improved recall without sacrificing precision excessively.
+ * Threshold Trade-offs: Precision-Recall curves helped identify an optimal balance point—prioritizing recall (catching fraud) while managing false positives.
