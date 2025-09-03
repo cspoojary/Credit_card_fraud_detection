@@ -24,4 +24,4 @@ This project analyzes anonymized credit card transaction data to detect unusual 
  * Threshold Trade-offs: Precision-Recall curves helped identify an optimal balance point—prioritizing recall (catching fraud) while managing false positives.
 
 ## Project Files
-- <a href = "https://github.com/cspoojary/Credit_card_fraud_detection/blob/main/creditcard.ipynb">Full EDA, modeling pipeline, evaluation, and visualizations.</a>
+- <a href = "https://github.com/cspoojary/Credit_card_fraud_detection/blob/main/creditcard.ipynb">Full EDA, evaluation, and visualizations.</a>
