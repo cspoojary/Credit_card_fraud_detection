@@ -10,9 +10,5 @@ This project analyzes anonymized credit card transaction data to detect unusual 
 
 ## Tools & Technologies Used
 > Data Processing & Modeling: Python, Pandas, NumPy, Scikit-Learn, XGBoost, Imbalanced-learn
-
-Visualization: Matplotlib, Seaborn, Plotly
-
-Dashboard / Deployment (optional): Streamlit or Power BI
-
-Environment: Jupyter Notebook, GitHub
+> Visualization: Matplotlib, Seaborn, Plotly
+> Environment: Jupyter Notebook, GitHub
