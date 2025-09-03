@@ -25,3 +25,36 @@ This project analyzes anonymized credit card transaction data to detect unusual 
 
 ## Project Files
 - <a href = "https://github.com/cspoojary/Credit_card_fraud_detection/blob/main/creditcard.ipynb">Full EDA, evaluation, and visualizations.</a>
+
+## Project Workflow Checklist
+* Importing Libraries & Loading Data
+   * Imported Pandas, NumPy, Matplotlib/Seaborn, Scikit-Learn
+   * Loaded creditcard.csv
+* Data Exploration (EDA)
+   * Checked dataset shape, columns, data types
+   * Checked for missing values / duplicates
+   * Descriptive statistics (mean, median, std, etc.)
+* Class Imbalance Check
+  * Count of fraud vs non-fraud transactions
+  * Percentage of fraud cases
+* Feature Exploration
+  * Distribution of Amount and Time
+  * Histograms / KDE plots of features
+  * Correlation heatmap
+* Data Preprocessing
+  * Normalization/Scaling (Amount, Time)
+  * Train-test split
+* Modeling
+  * Logistic Regression
+  * Random Forest
+* Handling Imbalance
+  * applied class_weight=balanced
+* Model Evaluation
+  * Accuracy, Precision, Recall, F1-score
+  * Confusion Matrix
+  * ROC Curve & AUC
+  * Precision-Recall curve
+* Visualization & Insights
+  * Fraud vs Non-fraud distribution plots
+  * Feature importance bar chart
+  * ROC & PR curves
