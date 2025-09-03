@@ -22,3 +22,6 @@ This project analyzes anonymized credit card transaction data to detect unusual 
  * Important Predictors: Features like V14, V17, and V12 emerged as consistent top contributors.
  * Effectiveness of Imbalance Techniques: SMOTE and class-weight adjustments notably improved recall without sacrificing precision excessively.
  * Threshold Trade-offs: Precision-Recall curves helped identify an optimal balance point—prioritizing recall (catching fraud) while managing false positives.
+
+## Project Files
+- <a href = "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data/">Full EDA, modeling pipeline, evaluation, and visualizations.</a>
